@@ -1,0 +1,27 @@
+# Django #
+*.log
+*.pot
+*.pyc
+__pycache__
+
+# Environments #
+.env
+.venv
+env/
+venv/
+
+# Migration files #
+migrations/
+media/videos/
+
+db.sqlite3
+
+dump.rdb
+
+# Miscellaneous #
+misc/
+test.py
+node_modules
+
+# Local Netlify folder
+.netlify
